@@ -1,0 +1,4 @@
+fav_movie - The Shawshank redemption
+fav_meal - Tai_Shrimps
+fav_season - Summer
+wish_to_visit_country - Denmark
