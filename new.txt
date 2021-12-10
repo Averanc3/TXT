@@ -2,3 +2,4 @@ Name - Fadeenko Nikita Vladimirovich
 Age - 26 
 Pets - 0 
 Salary - 60000
+ 
